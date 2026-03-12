@@ -6,7 +6,7 @@ Projeto desenvolvido para a disciplina de Trabalho de Conclusão do Curso Softwa
 Desenvolver um aplicativo simples para gerenciamento de um petshop. 
 
 ## Tecnologias Utilizadas
-- Back-end: Java
+- Back-end: Javascript
 - Front-end: React
 - Banco de Dados: MySQL
   - petshop.sql -> Executar no MySQL para criar todas as tabelas do projeto.
